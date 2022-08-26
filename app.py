@@ -49,7 +49,7 @@ app = d.Dash()
 app.title ="IPL Analytics"
 app._favicon = ""
 app.layout = html.Div([
-        html.H1("IPL ANALYSIS (2008-2019) - PES1PG21CA140",style={"font-size":"42px","text-align": "center"}),
+        html.H1("IPL ANALYSIS (2008-2019)",style={"font-size":"42px","text-align": "center"}),
 
 
         html.Div([html.P(f"Their were total of {len(rcb_players)} players during 2008-2019 ")], style={"font-size":"26px","height": "45px","text-align":"center","color":484848}),
