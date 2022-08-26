@@ -6,7 +6,7 @@ from dash.dependencies import Input,Output
 import plotly.graph_objects as go
 
 
-df = pd.read_csv('ipl_batting.csv')
+df = pd.read_csv('https://raw.githubusercontent.com/jayavardhanjv/ipl_analytics/main/ipl_batting.csv')a
 batting = df.copy()
 
 df.dropna(inplace=True)
