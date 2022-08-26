@@ -1,0 +1,17 @@
+Pos - The position of a player in a particular season based on total runs.
+Player - The name of the player.
+Mat - Total matches in which a player was included in the playing 11.
+Inns - The number of innings in which the batsman actually batted.
+NO - The number of times the batsman was not out at the conclusion of an innings they batted in.
+Runs - Total Runs scored in a particular season.
+HS - The highest score ever made by the batsman in the season.
+Avg - Batting Average - The total number of runs divided by the total number of innings in which the batsman was out. Ave = Runs/[I – NO] (also Avge or Avg.).
+BF - Balls Faced - The total number of balls received, including no-balls but not including wides.
+SR - Strike Rate - The average number of runs scored per 100 balls faced. (SR = [100 * Runs]/BF).
+100 - Number of times 100 runs(centuries) scored by a player.
+50 - Number of times 50 runs(half-centuries) scored by a player.
+4s - Number of times a player hits a 4.
+6s - Number of times a player hits a 6.
+Nationality - Whether the palyed is indian or overseas.
+Team - The team the player belongs to.
+Season - The year the record belongs to.
